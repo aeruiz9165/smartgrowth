@@ -1,0 +1,62 @@
+html{
+    background:rgb(215, 214, 219);
+
+}
+body{
+    width:100%;
+    margin:0,auto;
+    
+}
+
+
+
+h1{
+
+    color:rgb(228, 66, 228);
+    text-align:center;
+    
+    margin-bottom:1.2em;
+    font-size: 4em;
+}
+
+.edutoys{
+    font-size:1.5em;
+    margin-bottom: 2em;
+   
+
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+p{
+    font-size:1.3em;
+    
+}
+
+.age{
+    font-size:2em;
+    text-align:center;
+    margin-bottom:2em;
+    color:blue
+}
+a{
+    color:rgb(8, 184, 8);
+    text-decoration:none;
+}
+a:hover{
+    color:green;
+}
+
+.row1{
+    margin-left:25%;
+}
